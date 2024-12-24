@@ -18,6 +18,13 @@ Contributing to the documentation requires a [GitHub account](https://github.com
 
 To install the necessary tools, follow the instructions for [Install content authoring tools](https://learn.microsoft.com/contribute/get-started-setup-tools) from our contributor guide.
 
+#### Download
+Install the following tools:
+
+Git
+Visual Studio Code
+Docs Authoring Pack extension for Visual Studio Code
+
 ## License
 
 For all licensing information, refer to:
